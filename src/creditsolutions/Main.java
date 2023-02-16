@@ -1,5 +1,11 @@
 package creditsolutions;
-
+/*Group Members are
+Kemoy Gallimore - 2017002408
+Althea Johnson-Roach - 2101012491
+Darwin Dallas - 2101012479
+Glen Brown  - 2101011317
+David Samuels - 2101012913
+* */
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args)
